@@ -8,6 +8,11 @@ public class OracleRepository implements Repository {
     @Override
     public List<Product> getProducts() {
         return null;
+
+
+
+
+        
     }
 
     @Override

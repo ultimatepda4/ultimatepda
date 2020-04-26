@@ -1,4 +1,4 @@
-package com.ultimatepda.model;
+package com.ultimatepda.engine.model;
 
 public class StoreItemsDetailResponse {
 
